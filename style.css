@@ -1,0 +1,26 @@
+
+.header {
+	background: url('https://dieliving.com/content/images/2018/07/wrist---rolex-military-edited.jpg');
+	background-size: cover;
+	height: 500px;
+	width: 100%;
+}
+
+.header ul {
+	display: flex;
+	list-style-type: none;
+	margin: 0px auto;
+	padding-top: 67px;
+	width: 70%;
+}
+.header ul li {
+	color: white;
+	border-right: solid 1px white;
+	font-size: 30px;
+	margin-left: 6px;
+	padding-right: 10px;
+}
+.logo{
+	margin: 30px 50px;
+	position: absolute;
+}
